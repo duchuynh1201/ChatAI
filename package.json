@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "express-handlebars-sections": "^1.0.1",
-    "nest-winston": "^1.9.4",
-    "winston": "^3.11.0"
-  }
-}
